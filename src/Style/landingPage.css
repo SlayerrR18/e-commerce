@@ -1,0 +1,50 @@
+.myBg{
+  height: 100vh;
+  background-image: url(../Image/bg/Bg-1.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  position: relative;
+}
+
+.intro {
+  height: 300px;
+  display: flex;
+  justify-content: end;
+  align-items: end;
+}
+
+.title {
+  font-size: 3rem;
+  color: rgb(0, 0, 0);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-weight: 700;
+  text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.5);
+  line-height: 1;
+  margin: 10px;
+}
+
+.title-2 {
+  font-size: 1.5rem;
+  color: rgb(0, 0, 0);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-weight: 400;
+  line-height: 1;
+  text-shadow: 0.5px 0.5px 0.5px rgba(0, 0, 0, 0.5);
+}
+
+.awal-sendal {
+  font-size: 3rem;
+  font-weight: 600;
+}
+
+.awal-sepatu {
+  font-size: 3rem;
+  font-weight: 600;
+}
+
+
